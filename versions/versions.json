@@ -843,13 +843,13 @@
    "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.3.jar"
   },
   "unr.preview2": {
-    "client_url": "https://github.com/NexTre-dev/alphaver/blob/main/jar/v1605_unrpreview2/v1605_unrpreview2_client.jar?raw=true",
+    "client_url": "https://github.com/NexTre-dev/alphaver/raw/main/jar/v1605_unrpreview2/v1605_unrpreview2_client.jar",
     "proxy_port": 11702,
     "server": "a0.1.3",
     "client_timestamp": "2010-08-13T08:30:14Z",
     "server_timestamp": "2010-08-17T10:17:32Z",
     "resources": "unrpreview2.zip",
-    "server_url": "https://github.com/NexTre-dev/alphaver/blob/main/jar/v1605_unrpreview2/v1605_unrpreview2_server.jar?raw=true"
+    "server_url": "https://github.com/NexTre-dev/alphaver/raw/main/jar/v1605_unrpreview2/v1605_unrpreview2_server.jar"
   },
   "a1.1.0": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.1.0-2.jar",
